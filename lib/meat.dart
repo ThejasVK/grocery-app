@@ -140,7 +140,7 @@ class _BreadPageState extends State<BreadPage> {
       TopProductTile(
         color: Color(0xffF4DEF8),
         assetPath: 'assets/images/meatCard.png',
-        title: 'Beef',
+        title: 'Mutton',
         price: '\₹100.0',
       ),
       TopProductTile(
